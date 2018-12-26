@@ -18,7 +18,7 @@ Config.Zones = {
 Config.Map = {
   {name="Prospecting Site", color=6, scale=0.8, id=403, x=-1616.82, y=2559.83, z=0.57},
   {name="Prospecting Site", color=6, scale=0.8, id=403, x=-410.52, y=2964.22, z=13.48},
-  {name="Ruby Treatment",  	color=6, scale=0.8, id=403, x=-1668.0001220703, y=-973.79998779297, z=7.4868841171265},
-  {name="Ruby Treatment",  	color=6, scale=0.8, id=403, x=713.5, y=4094.14, z=34.73},
-  {name="Ruby Sales",      	color=6, scale=0.8, id=403, x=-1580.1741943359, y=-244.81010437012, z=49.461368560791}
+  {name="Ruby Treatment",  	color=7, scale=0.8, id=403, x=-1668.0001220703, y=-973.79998779297, z=7.4868841171265},
+  {name="Ruby Treatment",  	color=7, scale=0.8, id=403, x=713.5, y=4094.14, z=34.73},
+  {name="Ruby Sales",      	color=8, scale=0.8, id=403, x=-1580.1741943359, y=-244.81010437012, z=49.461368560791}
 }
